@@ -1,6 +1,4 @@
 # Java-Musicfy
-Base de datos musical en terminal.
-
 Práctica final de Programación III en la Universidad de Salamanca.  
 Nota: **10**
 
