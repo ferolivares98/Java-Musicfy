@@ -1,5 +1,5 @@
 # Java-Musicfy
-Proyecto de base de datos de carácter musical. 
+Base de datos musical en terminal.
 
 Práctica final de Programación III en la Universidad de Salamanca.  
 Nota: **10**
@@ -25,6 +25,8 @@ sin la necesidad de proporcionar datos manualmente.
 Si se desea reiniciar el registro del programa, debe borrarse de manera manual los archivos de musicfy/binarios. Además, para 
 utilizar Musicfy como base de datos personal, se recomienda dejar en blanco los archivos disponibles en musicfy/datos y
 evitar la _generación aleatoria_.
+
+Su uso puede corresponderse como una extensión de uso personal de un programa como [Cmus](https://cmus.github.io/) o similar.
 
 
 ## Feedback
