@@ -1,4 +1,4 @@
-# Java-Musicfy
+# OOP-Java-Musicfy
 Práctica final de Programación III en la Universidad de Salamanca.  
 Nota: **10**
 
